@@ -1,0 +1,13 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "A simple project from the Boot.Dev website",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Zalbezal",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
